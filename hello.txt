@@ -11,4 +11,4 @@ hello zxy! hello git!
 hello zxy! hello git!
 hello zxy! hello git!
 hello zxy! hello git!
-hello zxy! hello git!
+hello zxy! hello git! hot-fix text
